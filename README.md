@@ -2,6 +2,8 @@
 
 Kubernetes Deployment on-premises for production environment it is recommended to deploy with High Availability:
 
+ ![alt text](https://github.com/Malvearun/unknown/blob/master/High-Availability-Kubernetes-Cluster.jpg "High-Availability-Kubernetes-Cluster")
+
 OS and hardware requirements:
 
 **Step 1: Nodes:**
